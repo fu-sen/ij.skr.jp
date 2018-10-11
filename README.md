@@ -1,10 +1,14 @@
 ## MixJuice コンテンツ サンプル
 
+各フォルダ（ディレクトリ）にある README.txt は<br>
+GitHub 上でこの文章を表示するためのものです。<br>
+それ以外のファイルは実際の MixJuice 向けに用意されています。
+
 ### IchigoJam BASIC
 
 次のコマンドで参照できます。
 
-*?"MJ GETS fu-sen.github.io/mj/*
+**?"MJ GETS fu-sen.github.io/mj/**
 
 **MixJuice 1.2.2 以降 または MicJack 対応です。**<br>
 MixJuice 1.2.1 以前は GitHub Pages の SSL が参照できません。<br>
@@ -17,7 +21,7 @@ MixJuice を最新バージョンに更新してご利用下さい。
 起動直後は一度次のコマンドを実行して下さい。<br>
 文字化けした文字列ｈが出てきて正常です。
 
-lash>*echo > uart*
+lash>**echo > uart**
 
 次のコマンドで参照できます。
 

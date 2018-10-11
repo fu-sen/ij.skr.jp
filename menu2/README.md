@@ -4,7 +4,7 @@
 「Micono Utilities for MixJuice」で<br>
 採用しているメニューです。
 
-*?"MJ GETS fu-sen.github.io/mj/menu2/*
+**?"MJ GETS fu-sen.github.io/mj/menu2/**
 
 で表示します。
 

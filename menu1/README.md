@@ -3,7 +3,7 @@
 「イチゴジャム レシピ MixJuice コンテンツ」や<br>
 「15ja.ml」で採用しているメニューです。
 
-*?"MJ GETS fu-sen.github.io/mj/menu1/*
+**?"MJ GETS fu-sen.github.io/mj/menu1/**
 
 で表示します。最後が
 
