@@ -4,6 +4,10 @@
 GitHub 上でこの文章を表示するためのものです。<br>
 それ以外のファイルは実際の MixJuice 向けに用意されています。
 
+IchigoJam BASIC の カナ は Shift_JIS の半角と同じですが、<br>
+GitHub 上での表示は UTF-8 でないと正常に表示できません。<br>
+そのため、ここでの MixJuice コンテンツは英文表記にしています。
+
 ### IchigoJam BASIC
 
 次のコマンドで参照できます。
