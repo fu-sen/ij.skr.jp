@@ -25,7 +25,7 @@ lash>**echo > uart**
 
 次のコマンドで参照できます。
 
-lash>*echo MJ GETS fu-sen.github.io/mj/il/> uart;cat uart > .*
+lash>**echo MJ GETS fu-sen.github.io/mj/il/> uart;cat uart > .**
 
 ### IchigonQuest
 
