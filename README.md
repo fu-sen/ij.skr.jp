@@ -16,6 +16,12 @@ GitHub 上での表示は UTF-8 でないと正常に表示できません。<br
 ?"MJ GETS fu-sen.github.io/mj/
 ```
 
+または
+
+```
+?"MJ GETS 15jr.tk/M
+```
+
 **MixJuice 1.2.2 以降 または MicJack 対応です。**<br>
 MixJuice 1.2.1 以前は GitHub Pages の SSL が参照できません。<br>
 MixJuice を最新バージョンに更新してご利用下さい。
