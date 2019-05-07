@@ -31,7 +31,7 @@ GitHub 上での表示は UTF-8 でないと正常に表示できません。\
 文字化けした文字列が出てきて正常です。（lash> は入力する必要ありません）
 
 ```
-lash>echo > uart
+lash>echo > uart;cat uart
 ```
 
 次のコマンドで参照できます。
