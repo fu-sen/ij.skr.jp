@@ -5,4 +5,4 @@ IchigoJam BASIC のダイレクトコマンドとして動作します。
 
 次を実行してみて下さい。
 
-**?"MJ GETS fu-sen.github.io/mj/direct/**
+**?"MJ GET ijmj.eu.org/direct/**

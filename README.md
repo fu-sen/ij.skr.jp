@@ -1,6 +1,6 @@
 ## MixJuice コンテンツ サンプル
 
-各フォルダ（ディレクトリ）にある README.txt は\
+各フォルダ（ディレクトリ）にある README.md は\
 GitHub 上でこの文章を表示するためのものです。\
 それ以外のファイルは実際の MixJuice 向けに用意されています。
 
@@ -10,21 +10,18 @@ GitHub 上での表示は UTF-8 でないと正常に表示できません。\
 
 ### IchigoJam BASIC
 
-次のコマンドで参照できます。
+次のコマンドで参照できます。\
+（MixJuice 1.2.2 以降・MicJack は GET の代わりに GETS も使用です）
 
 ```
-?"MJ GETS fu-sen.github.io/mj/
+?"MJ GET ijmj.eu.org/
 ```
 
 または
 
 ```
-?"MJ GETS 15jr.tk/M
+?"MJ GETS 15j.run/M
 ```
-
-**MixJuice 1.2.2 以降 または MicJack 対応です。** \
-MixJuice 1.2.1 以前は GitHub Pages の SSL が参照できません。\
-MixJuice を最新バージョンに更新してご利用下さい。
 
 実際の表示とソースを見比べて下さい。
 
@@ -38,9 +35,10 @@ lash>echo > uart
 ```
 
 次のコマンドで参照できます。
+（MixJuice 1.2.2 以降・MicJack は GET の代わりに GETS も使用です）
 
 ```
-lash>echo MJ GETS fu-sen.github.io/mj/il/> uart;cat uart > .
+lash>echo MJ GET ijmj.eu.org/il/> uart;cat uart > .
 ```
 
 ### IchigonQuest
@@ -53,5 +51,6 @@ IJUtilities を用いて変換する事で公開できます。\
 
 * MixJuice (公式) http://mixjuice.shizentai.jp/
 * IchigoJam (公式) https://ichigojam.net/
+* IchigoLatte (公式) http://ichigolatte.shizentai.jp/
 * イチゴジャム レシピ (公開元) https://15jamrecipe.jimdo.com/
 

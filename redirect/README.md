@@ -1,6 +1,6 @@
 ## 転送
 
-**?"MJ GETS fu-sen.github.io/mj/redirect/**
+**?"MJ GET ijmj.eu.org/redirect/**
 
 がサンプルです。
 
