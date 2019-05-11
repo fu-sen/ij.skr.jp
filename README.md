@@ -12,8 +12,7 @@ GitHub 上での表示は UTF-8 でないと正常に表示できません。\
 
 ### IchigoJam BASIC
 
-次のコマンドで参照できます。\
-（MixJuice 1.2.2 以降・MicJack は GET の代わりに GETS も使用です）
+次のコマンドで参照できます。
 
 ```
 ?"MJ GET ijmj.eu.org/
@@ -37,7 +36,6 @@ lash>echo > uart;cat uart
 ```
 
 次のコマンドで参照できます。
-（MixJuice 1.2.2 以降・MicJack は GET の代わりに GETS も使用です）
 
 ```
 lash>echo MJ GET ijmj.eu.org/il/> uart;cat uart > .
