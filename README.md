@@ -12,7 +12,7 @@ GitHub 上での表示は UTF-8 でないと正常に表示できません。\
 
 ### IchigoJam BASIC
 
-次のコマンドで参照できます。
+次のコマンドで参照できます。（GET の代わりに GETS も使用できます）
 
 ```
 ?"MJ GET ijmj.eu.org/
@@ -35,7 +35,7 @@ GitHub 上での表示は UTF-8 でないと正常に表示できません。\
 lash>echo > uart;cat uart
 ```
 
-次のコマンドで参照できます。
+次のコマンドで参照できます。（GET の代わりに GETS も使用できます）
 
 ```
 lash>echo MJ GET ijmj.eu.org/il/> uart;cat uart > .
