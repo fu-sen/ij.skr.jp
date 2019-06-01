@@ -18,10 +18,10 @@ GitHub 上での表示は UTF-8 でないと正常に表示できません。\
 ?"MJ GET ijmj.eu.org/
 ```
 
-または
+または（GET の代わりに GETS 使用可）
 
 ```
-?"MJ GETS 15j.run/M
+?"MJ GET 15j.run/M
 ```
 
 実際の表示とソースを見比べて下さい。
