@@ -12,7 +12,7 @@ GitHub 上での表示は UTF-8 でないと正常に表示できません。\
 
 ### IchigoJam BASIC
 
-次のコマンドで参照できます。（GET の代わりに GETS も使用できます）
+次のコマンドで参照できます。
 
 ```
 ?"MJ GET ijmj.eu.org/
