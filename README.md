@@ -15,7 +15,7 @@ GitHub 上での表示は UTF-8 でないと正常に表示できません。\
 次のコマンドで参照できます。
 
 ```
-?"MJ GET ijmj.eu.org/
+?"MJ GET 15.surge.sh/
 ```
 
 または（GET の代わりに GETS 使用可）
@@ -38,7 +38,7 @@ lash>echo > uart;cat uart
 次のコマンドで参照できます。（GET の代わりに GETS も使用できます）
 
 ```
-lash>echo MJ GET ijmj.eu.org/il/> uart;cat uart > .
+lash>echo MJ GET 15.surge.sh/il/> uart;cat uart > .
 ```
 
 ### IchigonQuest

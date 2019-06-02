@@ -5,4 +5,4 @@ IchigoJam BASIC のダイレクトコマンドとして動作します。
 
 次を実行してみて下さい。
 
-**?"MJ GET ijmj.eu.org/direct/**
+**?"MJ GET 15.surge.sh/direct/**

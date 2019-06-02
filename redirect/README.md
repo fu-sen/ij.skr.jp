@@ -1,6 +1,6 @@
 ## 転送
 
-**?"MJ GET ijmj.eu.org/redirect/**
+**?"MJ GET 15.surge.sh/redirect/**
 
 がサンプルです。
 

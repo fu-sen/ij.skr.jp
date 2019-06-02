@@ -1,4 +1,4 @@
 
 'Push "1"
 
-?"MJ GET ijmj.eu.org/menu2/
+?"MJ GET 15.surge.sh/menu2/

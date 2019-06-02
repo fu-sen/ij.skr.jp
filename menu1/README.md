@@ -3,11 +3,11 @@
 「イチゴジャム レシピ MixJuice コンテンツ」や<br>
 「15ja.ml」で採用しているメニューです。
 
-**?"MJ GET ijmj.eu.org/menu1/**
+**?"MJ GET 15.surge.sh/menu1/**
 
 で表示します。最後が
 
-?"MJ GET ijmj.eu.org/menu1/■
+?"MJ GET 15.surge.sh/menu1/■
 
 で停止し、GETS（GET）コマンドの後に入力する事で<br>
 このフォルダ（ディレクトリ）内のファイルを参照します。<br>

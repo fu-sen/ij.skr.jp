@@ -4,11 +4,11 @@
 「Micono Utilities for MixJuice」で<br>
 採用しているメニューです。
 
-**?"MJ GET ijmj.eu.org/menu2/**
+**?"MJ GET 15.surge.sh/menu2/**
 
 で表示します。
 
-INPUT N:?"MJ GET ijmj.eu.org/menu2/";N;".txt
+INPUT N:?"MJ GET 15.surge.sh/menu2/";N;".txt
 ?■
 
 となります。これは INPUT の入力待ちです。
