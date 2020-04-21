@@ -12,13 +12,13 @@ GitHub 上での表示は UTF-8 でないと正常に表示できません。\
 
 ### IchigoJam BASIC
 
-次のコマンドで参照できます。（GET の代わりに GETS も使用可）
+次のコマンドで参照できます。
 
 ```
-?"MJ GET 15.surge.sh/
+?"MJ GET ij.skr.jp/
 ```
 
-または（GET の代わりに GETS 使用可）
+または
 
 ```
 ?"MJ GET 15j.run/M
@@ -38,7 +38,7 @@ lash>echo > uart;cat uart
 次のコマンドで参照できます。（GET の代わりに GETS も使用可）
 
 ```
-lash>echo MJ GET 15.surge.sh/il/> uart;cat uart > .
+lash>echo MJ GET ij.skr.jp/il/> uart;cat uart > .
 ```
 
 ### IchigonQuest
@@ -52,5 +52,8 @@ IJUtilities を用いて変換する事で公開できます。\
 * MixJuice (公式) http://mixjuice.shizentai.jp/
 * IchigoJam (公式) https://ichigojam.net/
 * IchigoLatte (公式) http://ichigolatte.shizentai.jp/
-* イチゴジャム レシピ (公開元) https://15jamrecipe.jimdo.com/
+* イチゴジャム レシピ (公開元) https://15jamrecipe.jimdofree.com/
 
+### Powered by
+
+[さくらのレンタルサーバ](https://www.sakura.ne.jp/) by [さくらインターネット](https://www.sakura.ad.jp/)

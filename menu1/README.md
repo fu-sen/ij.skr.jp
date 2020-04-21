@@ -4,13 +4,13 @@
 「15jm.li」で採用しているメニューです。
 
 ```
-?"MJ GET 15.surge.sh/menu1/
+?"MJ GET ij.skr.jp/menu1/
 ```
 
 で表示します。最後が
 
 ```
-?"MJ GET 15.surge.sh/menu1/■
+?"MJ GET ij.skr.jp/menu1/■
 ```
 
 で停止し、GETS（GET）コマンドの後に入力する事で\

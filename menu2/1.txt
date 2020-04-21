@@ -1,4 +1,4 @@
 
 'Push "1"
 
-?"MJ GET 15.surge.sh/menu2/
+?"MJ GET ij.skr.jp/menu2/
