@@ -6,7 +6,7 @@ RewriteEngine On
 RewriteBase /
 RewriteEngine on
 RewriteCond %{HTTP_USER_AGENT} !(MixJuice) [NC]
-RewriteRule ^(.*)$ https://github.com/fu-sen/ij.skr.jp/ [R=301,L]
+RewriteRule ^(.*)$ https://github.com/fu-sen/ij.skr.jp [R=301,L]
 
 RewriteBase /
 RewriteRule [A-Z] - [E=HASCAPS:TRUE,S=1]
