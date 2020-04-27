@@ -36,4 +36,5 @@ RewriteRule ^([^X]*)X(.*)$ $1x$2
 RewriteRule ^([^Y]*)Y(.*)$ $1y$2
 RewriteRule ^([^Z]*)Z(.*)$ $1z$2
 RewriteRule [A-Z] - [N]
+RewriteCond %{ENV:HASCAPS} TRUE
 RewriteRule ^/?(.*) /$1 [L]
