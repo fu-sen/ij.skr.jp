@@ -3,8 +3,8 @@ ErrorDocument 404 /404.shtml
 RewriteEngine On
 RewriteBase /
 
-RewriteCond %{HTTP_USER_AGENT} !(MixJuice) [NC]
-RewriteRule ^(.*)$ https://github.com/fu-sen/ij.skr.jp [R=301,L]
+RewriteCond %{HTTP_USER_AGENT} !MixJuice [NC]
+RewriteRule ^.*$ https://github.com/fu-sen/ij.skr.jp [R=301,L]
 
 RewriteRule [A-Z] - [E=HASCAPS:TRUE,S=1]
 RewriteRule ![A-Z] - [S=28]
