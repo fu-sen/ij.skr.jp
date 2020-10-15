@@ -6,5 +6,5 @@ IchigoJam BASIC のダイレクトコマンドとして動作します。
 次を実行してみて下さい。
 
 ```
-?"MJ GET ij.skr.jp/direct/
+?"MJ GET mj.15j.run/direct/
 ```

@@ -5,13 +5,13 @@
 採用しているメニューです。
 
 ```
-?"MJ GET ij.skr.jp/menu2/
+?"MJ GET mj.15j.run/menu2/
 ```
 
 で表示します。
 
 ```
-INPUT N:?"MJ GET ij.skr.jp/menu2/";N;".txt
+INPUT N:?"MJ GET mj.15j.run/menu2/";N;".txt
 ?■
 ```
 

@@ -1,1 +1,1 @@
-?"MJ GET ij.skr.jp/
+?"MJ GET mj.15j.run/

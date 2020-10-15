@@ -1,4 +1,4 @@
 
 'Push "3"
 
-?"MJ GET ij.skr.jp/menu2/
+?"MJ GET mj.15j.run/menu2/
