@@ -1,3 +1,3 @@
 '404 Not Found
 
-?"MJ GET mj.15j.run<!--#echo var="REQUEST_URI" -->
+?"MJ GETS mj.15j.run<!--#echo var="REQUEST_URI" -->
