@@ -1,5 +1,5 @@
 <?php
-header('Access-Control-Allow-Origin: *');
+
 header('Content-Type: text/plain');
 
 date_default_timezone_set('Asia/Tokyo');
