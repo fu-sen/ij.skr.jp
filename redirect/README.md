@@ -1,7 +1,7 @@
 ## 転送
 
 ```
-?"MJ GET mj.15j.run/redirect/
+?"MJ GETS mj.15j.run/redirect/
 ```
 
 がサンプルです。

@@ -1,7 +1,7 @@
 ## IchigoJam BASIC での基本
 
 ```
-?"MJ GET mj.15j.run/basic/
+?"MJ GETS mj.15j.run/basic/
 ```
 
 で表示します。\
@@ -21,7 +21,7 @@ IchigoJam BASIC は何も処理せずに表示するのみです。\
 USB-シリアル を用いている場合と同じです。
 
 ```
-?"MJ GET mj.15j.run/basic/
+?"MJ GETS mj.15j.run/basic/
 ```
 
 ？ は PRINT の省略形です。\

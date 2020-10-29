@@ -1,13 +1,12 @@
 ErrorDocument 404 /404.shtml
 
+Header set Access-Control-Allow-Origin "*"
+
 RewriteEngine On
 RewriteBase /
 
 RewriteCond %{HTTP_HOST} !mj.15j.run
 RewriteRule .* - [R=404,L]
-
-RewriteCond %{HTTP_USER_AGENT} !MixJuice [NC]
-RewriteRule .* https://github.com/fu-sen/mj.15j.run [R=301,L]
 
 RewriteRule [A-Z] - [E=HASCAPS:TRUE,S=1]
 RewriteRule ![A-Z] - [S=28]
