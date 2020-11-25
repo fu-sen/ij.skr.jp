@@ -18,7 +18,7 @@ GitHub 上での表示は UTF-8 でないと正常に表示できません。\
 ?"MJ GETS mj.15j.run/
 ```
 
-または
+または（ `GET` の代わりに `GETS` を使用可）
 
 ```
 ?"MJ GET 15J.RUN/M
