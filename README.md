@@ -18,10 +18,10 @@ GitHub 上での表示は UTF-8 でないと正常に表示できません。\
 ?"MJ GETS mj.15j.run/
 ```
 
-または（ `GET` の代わりに `GETS` を使用可。IchigoJam web は `GETS` 必須）
+または短縮 URL として
 
 ```
-?"MJ GET 15J.RUN/M
+?"MJ GETS 15J.IN/M
 ```
 
 実際の表示とソースを見比べて下さい。
