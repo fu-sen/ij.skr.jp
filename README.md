@@ -82,11 +82,18 @@ IchigoJam BASIC＋MixJuice や IchigoLatte＋MixJuice で参照した場合の�
 
 ___
 
+## p/
+
+PHP を用いた MixJuice コンテンツは `p/` ディレクトリ（フォルダ）内に入れています。
+
+___
+
 ## 関連サイト
 
 * MixJuice (公式) http://mixjuice.shizentai.jp/
 * IchigoJam (公式) https://ichigojam.net/
 * IchigoLatte (公式) http://ichigolatte.shizentai.jp/
+
 * イチゴジャム レシピ (公開元) https://15jamrecipe.jimdofree.com/
 
 ___
