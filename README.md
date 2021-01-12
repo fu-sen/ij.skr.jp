@@ -50,26 +50,14 @@ IJUtilities を用いて変換する事で公開できます。\
 
 ___
 
-## robots.txt
-
-`mj.15j.run` は完全に MixJuice での参照向けですので、\
-Google などの検索エンジンクローラーに収集してもらう意味がありません。\
-そのため、完全にクローラーの参照を拒否させています。
-
-```
-User-agent: *
-Disallow: /
-```
-
-___
-
 ## .htaccess
 
 次の記載があります。
 
 - Not Found - MixJuice の考慮で 404.shtml で表示させています。
 - IchigoJam web の対処 - CORS の対応を行っています。
-- mj.15j.run 以外で参照した時の対処
+- mj.15j.run 以外の参照は Not Found 表示にします。（さくらのレンタルサーバ向けの対処）
+- MixJuice（含 MicJack）・IchigoJam web 以外から参照は GitHub プロジェクトページへ転送します。
 - 大文字を小文字に変換 - この方法では変換する文字数が多いとサーバエラーになります。
 
 ___
