@@ -3,7 +3,7 @@
 /*
 IchigoJam web での動作は次の 1 行が必要です。
 mj.15j.run は .htaccess でこれを入れています。
-header("Access-Control-Allow-Origin: *");
+header('Access-Control-Allow-Origin: *');
 */
 
 header('Content-Type: text/plain');
