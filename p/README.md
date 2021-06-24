@@ -10,7 +10,7 @@ ___
 
 ### IchigoJam web
 
-Ichigojam web で動作するようにする場合、\
+IchigoJam web で動作するようにする場合、\
 `Access-Control-Allow-Origin: *` をヘッダに加える必要があります。
 
 `.php` では次の 1 行を最初ところで加えて下さい。
