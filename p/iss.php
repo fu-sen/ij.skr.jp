@@ -1,5 +1,11 @@
 <?php
 
+/*
+IchigoJam web での動作は次の 1 行が必要です。
+mj.15j.run は .htaccess でこれを入れています。
+header("Access-Control-Allow-Origin: *");
+*/
+
 $jsonapi = "http://api.open-notify.org/iss-now.json";
 
 $json = file_get_contents($jsonapi); 

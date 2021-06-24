@@ -1,5 +1,11 @@
 <?php
 
+/*
+IchigoJam web での動作は次の 1 行が必要です。
+mj.15j.run は .htaccess でこれを入れています。
+header("Access-Control-Allow-Origin: *");
+*/
+
 header('Content-Type: text/plain');
 
 date_default_timezone_set('Asia/Tokyo');
